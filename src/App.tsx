@@ -66,6 +66,13 @@ export default function App() {
       github: 'https://github.com/modelcontextprotocol/servers',
       tags: ['slack', 'chat', 'api']
     },
+    {
+      name: 'Xquik MCP Server',
+      category: 'integration',
+      description: 'Remote MCP server for X search, profile timelines, post publishing, media workflows, and authenticated API requests.',
+      github: 'https://github.com/Xquik-dev/x-twitter-scraper',
+      tags: ['x', 'twitter', 'social']
+    },
     // Utilities
     {
       name: 'Local Filesystem',
