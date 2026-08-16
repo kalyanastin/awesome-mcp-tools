@@ -68,6 +68,14 @@ export default function App() {
     },
     // Utilities
     {
+      name: 'Agent QA',
+      category: 'utility',
+      description: 'AI QA agent for natural-language web and mobile regression tests with persistent test memory through CLI and MCP interfaces.',
+      npm: 'agent-qa',
+      github: 'https://github.com/vostride/agent-qa',
+      tags: ['testing', 'regression', 'browser', 'mobile']
+    },
+    {
       name: 'Local Filesystem',
       category: 'utility',
       description: 'Grants safe read/write filesystem access to specific directories configured in scopes.',
