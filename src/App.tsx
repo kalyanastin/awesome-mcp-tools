@@ -51,6 +51,13 @@ export default function App() {
     },
     // Integrations
     {
+      name: 'Statsnet MCP',
+      category: 'integration',
+      description: 'Background check any company in the world: registration, executives, courts and finances. Remote: https://statsnet.co/mcp',
+      github: 'https://github.com/usenetstate/statsnet-mcp',
+      tags: ['company-data', 'osint', 'background-check', 'remote']
+    },
+    {
       name: 'GitHub Server',
       category: 'integration',
       description: 'Integrates with GitHub APIs to search files, open issues, query Pull Requests, write code comments, and view commits.',
