@@ -49,6 +49,13 @@ export default function App() {
       github: 'https://github.com/modelcontextprotocol/servers',
       tags: ['redis', 'cache', 'nosql']
     },
+    {
+      name: 'Hyperconsciousness',
+      category: 'database',
+      description: 'Developer-alpha Rust knowledge store with encrypted, append-only records and device sync. Its MCP server retrieves knowledge through scoped, expiring grants.',
+      github: 'https://github.com/louis030195/hyperconsciousness',
+      tags: ['memory', 'knowledge', 'encrypted', 'rust']
+    },
     // Integrations
     {
       name: 'GitHub Server',
