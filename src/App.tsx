@@ -51,6 +51,18 @@ export default function App() {
     },
     // Integrations
     {
+      "name": "Agent Payment Node",
+      "category": "integration",
+      "description": "Local macOS CLI and stdio MCP payments with foreground owner approval for signing.",
+      "github": "https://github.com/nuanu-ai/agent-payment-node",
+      "tags": [
+        "payments",
+        "x402",
+        "stdio",
+        "macos"
+      ]
+    },
+    {
       name: 'GitHub Server',
       category: 'integration',
       description: 'Integrates with GitHub APIs to search files, open issues, query Pull Requests, write code comments, and view commits.',
